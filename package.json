@@ -1,0 +1,18 @@
+{
+  "name": "ebitware",
+  "version": "1.0.0",
+  "description": "Prueba de ebitware",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.2"
+  }
+}
